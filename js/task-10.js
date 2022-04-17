@@ -17,7 +17,7 @@ function getAmount() {
 function createBoxes() {
 
   let amount = getAmount();
-  let size = 30;
+  let size = 20;
   
   for (let i = 0; i < amount; i++) {
 
